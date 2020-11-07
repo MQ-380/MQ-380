@@ -22,7 +22,7 @@ The deep traveller of Japan, which is even much deeper than China, my motherland
 🎯
 Besides React, I'm also interested in **Flutter, iOS development** and other front-end tech which can make the world better.
 
-👨‍💻
+🥳
 Last but not least, welcome to my blog: https://mqsh.me   （Chinese）
 
 Write the code, change the world~
