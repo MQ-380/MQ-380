@@ -17,7 +17,7 @@ Working for JD.com as a FE engineer, and React is the most used framework in the
 The fans of every transportation such as railway(esspecially the Japan railway system), plane e.t.c...
 
 🗾
-The deep traveller of Japan, which is even much deeper than China, my motherland.(Unlock: 37/47  JR: 51.057%)
+The deep traveller of Japan, which is even much deeper than my motherland China.(Unlock: 37/47  JR: 51.057%)
 
 🎯
 Besides React, I'm also interested in **Flutter, iOS development** and other front-end tech which can make the world better.
